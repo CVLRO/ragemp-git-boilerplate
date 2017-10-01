@@ -1,12 +1,12 @@
 {
     "maxplayers" : 1000, 
-    "name" : "Your server name",
+    "name" : "Your devserver name",
     "gamemode" : "Your gamemode",
     "port" : 2000,
     "url" : "myserver.com",
-    "streamdistance" : 700.0,
+    "streamdistance" : 750.0,
     "sync-rate" : 60,
-    "max-ping": 105, 
+    "max-ping": 200, 
     "min-game-version": 1.41,
     "announce" : false, 
      "language": "en"
