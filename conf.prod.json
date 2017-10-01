@@ -1,0 +1,13 @@
+{
+    "maxplayers" : 1000,
+    "name" : "Production server name",
+    "gamemode" : "Roleplay",
+    "port" : 22005,
+    "url" : "realurl.com",
+    "streamdistance" : 500.0,
+    "sync-rate" : 60,
+    "max-ping": 110,
+    "min-game-version": 1.41,
+    "announce" : true,
+     "language": "en"
+}
