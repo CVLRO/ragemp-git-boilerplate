@@ -1,6 +1,6 @@
 {
     "maxplayers" : 1000, 
-    "name" : 
+    "name" : "Your server name",
     "gamemode" : "Your gamemode",
     "port" : 2000,
     "url" : "myserver.com",
