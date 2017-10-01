@@ -1,14 +1,13 @@
 {
-    "maxplayers" : 1000, //maximum player slots on the server
-    "name" : "Your dev server name",
+    "maxplayers" : 1000, 
+    "name" : 
     "gamemode" : "Your gamemode",
-    "port" : 2000, // your devserver public port
-    // "bind" : yourip, // force this public ip if you have many ips
+    "port" : 2000,
     "url" : "myserver.com",
     "streamdistance" : 700.0,
     "sync-rate" : 60,
-    "max-ping": 105, // max ping of players
-    "min-game-version": 1.41, // minimum game version
-    "announce" : false, // announce on the masterserver (with devconfig is disabled)
-     "language": "en", // en,ru,de,ro,cn,...
+    "max-ping": 105, 
+    "min-game-version": 1.41,
+    "announce" : false, 
+     "language": "en"
 }
